@@ -301,7 +301,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557284821509" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557284976746" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -416,7 +416,7 @@
       <workItem from="1548754875941" duration="10070000" />
       <workItem from="1550133603787" duration="12258000" />
       <workItem from="1557040170848" duration="9381000" />
-      <workItem from="1557282895028" duration="1296000" />
+      <workItem from="1557282895028" duration="1605000" />
     </task>
     <task id="LOCAL-00001" summary="大萨达">
       <created>1557283007239</created>
@@ -441,7 +441,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33005000" />
+    <option name="totallyTimeSpent" value="33314000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -463,7 +463,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32916668" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" sideWeight="0.49935567" weight="0.29166666" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32793522" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.61268556" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5006443" side_tool="true" weight="0.2997159" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.32916668" />
       <window_info anchor="bottom" id="Spring" order="12" />
